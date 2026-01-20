@@ -3,9 +3,13 @@
 /* phone */
 
 @media screen and (max-width: 576px){
-        #topbar{
-            
-        }
+        .presentation img{
+        float: left;
+        margin-right: 8px;
+    }
+    .btn{
+        font-size: 20px;
+    }
 }
 
 
